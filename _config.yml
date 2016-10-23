@@ -11,6 +11,8 @@ exclude:
 # Site settings
 title: Nicola Weiß
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
+permalink: /:title/
+timezone: Europe/Berlin
 email: nicola89@gmx.net
 name: Nicola Weiß
 description: >
